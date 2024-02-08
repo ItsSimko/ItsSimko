@@ -1,16 +1,21 @@
+# Alex Simko
 
+Welcome to my GitHub profile! 👋 I am Alex Simko, a passionate and dedicated Software Engineering Technology student seeking internships in Software or Web Development. This repository serves as a showcase of my skills, projects, and experiences.
 
-<!--
-**ItsSimko/ItsSimko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 🎓 Conestoga College - Second Year Software Engineering Technology
+- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/alex-simko/)
+- 📧 [Email](mailto:alexsimko4@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Programming Languages:** HTML, CSS, JavaScript, TypeScript, PHP, C/C++/C#, VBScript, SQL, LUA
+- **Technologies Used:** ASP.NET, Vue.js, Agile Methodology, Git/GitHub, AJAX, Linux, Visual Studio, TCP/IP, HTTP, MSTest, MySQL, Bootstrap, Vueitify, JSON Web Tokens (JWT), JSON, XML, jQuery, AJAX
+- **Soft Skills:** Adept problem solver with strong initiative, quality & detail orientation, excellent communication skills, and a strong sense of responsibility
+
+## Get in Touch
+
+I am actively seeking internship opportunities and would love to connect! Contact me through [LinkedIn](https://www.linkedin.com/in/alex-simko/) or email at alexsimko4@gmail.com.
+
+Thank you for visiting my GitHub profile! 🚀
