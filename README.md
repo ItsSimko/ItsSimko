@@ -1,10 +1,10 @@
 # Alex Simko
 
-Welcome to my GitHub profile! 👋 I am Alex Simko, a passionate and dedicated Software Engineering Technology student seeking internships in Software or Web Development. This repository serves as a showcase of my skills, projects, and experiences.
+Welcome to my GitHub profile! 👋 I am Alex Simko, a passionate and dedicated Software Engineer. This repository serves as a showcase of my skills, projects, and experiences.
 
 ## About Me
 
-- 🎓 Conestoga College - Second Year Software Engineering Technology
+- 🎓 Conestoga College - Third Year Software Engineering Technology
 - 🌐 [LinkedIn Profile](https://www.linkedin.com/in/alex-simko/)
 - 📧 [Email](mailto:alexsimko4@gmail.com)
 
