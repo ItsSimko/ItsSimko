@@ -4,7 +4,7 @@ Welcome to my GitHub profile! 👋 I am Alex Simko, a passionate and dedicated S
 
 ## About Me
 
-- 🎓 Conestoga College - Third Year Software Engineering Technology
+- 🎓 Conestoga College - Software Engineering Technology
 - 🌐 [LinkedIn Profile](https://www.linkedin.com/in/alex-simko/)
 - 📧 [Email](mailto:alexsimko4@gmail.com)
 
